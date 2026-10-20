@@ -7,6 +7,8 @@
 *.dll
 *.so
 *.dylib
+agen
+ascii-font-generator-tui
 
 # Test binary, built with `go test -c`
 *.test
